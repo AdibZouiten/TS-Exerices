@@ -1,0 +1,3 @@
+const makeUser = (): User => {
+  return {};
+};
